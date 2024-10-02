@@ -1,9 +1,8 @@
-[![MasterHead](github-header-image.png){: width="100%"}
-
+[![MasterHead](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sagnik Choudhury</h1>
 <h3 align="center">Passionate Full Stack Developer | Crafting Scalable Web Solutions from Frontend to Backend | Exploring Microservices & Building Resilient Back-End Systems</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikchoudhury18&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikchoudhury18" /> </p>
 
 - 🌱 I’m currently learning **Everything around microservices**
