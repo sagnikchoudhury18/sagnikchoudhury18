@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikchoudhury18&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikchoudhury18" /> </p>
 
-- 🌱 I’m currently learning **Everything around microservices**
+- 🌱 I’m currently learning **to build resilient and scalable Backend Systems**
 
-- 💬 Ask me about **Java, Databases**
+- 💬 Ask me about **Java, Spring Boot, Databases**
 
 - 📫 How to reach me **sagnikchoudhury18@gmail.com**
 
