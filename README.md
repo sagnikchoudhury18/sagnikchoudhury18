@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sagnik Choudhury</h1>
 <h3 align="center">Passionate Full Stack Developer | Crafting Scalable Web Solutions from Frontend to Backend | Exploring Microservices & Building Resilient Back-End Systems</h3>
 
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3SLU_cGHVkBVdOWpqLcrx_&ust=1727977757858000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjGrYuh8IgDFQAAAAAdAAAAABAI"
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikchoudhury18&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikchoudhury18" /> </p>
 
 - 🌱 I’m currently learning **Everything around microservices**
