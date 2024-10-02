@@ -1,4 +1,3 @@
-[![MasterHead](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sagnik Choudhury</h1>
 <h3 align="center">Passionate Full Stack Developer | Crafting Scalable Web Solutions from Frontend to Backend | Exploring Microservices & Building Resilient Back-End Systems</h3>
 
