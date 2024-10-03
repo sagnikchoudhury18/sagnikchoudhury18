@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Sagnik Choudhury 👋</h1> <h3 align="center">Full Stack Developer | Architecting Scalable Web Solutions | Exploring Microservices & Resilient Back-End Systems</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikchoudhury18&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikchoudhury18" /> </p>
+<h1 align="center">Hello, I'm Sagnik Choudhury 👋</h1> <h3 align="center">Full Stack Developer | Exploring Microservices to build resilient Back-End systems</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikchoudhury18&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikchoudhury18" /> </p>
 🌱 Currently deepening my knowledge in building resilient and scalable backend systems
 
-💬 Let's discuss Java, Spring Boot, Databases, and Backend Architecture
+💬 Let's discuss Java, Spring Boot, Databases, Microservices
 
 📫 Reach me at sagnikchoudhury18@gmail.com
 
